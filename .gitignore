@@ -1,0 +1,5 @@
+# Directory da ignorare
+temp
+
+# File da ignorare
+*.log
